@@ -16,7 +16,7 @@ divisor = int(input("Enter a number to divide 25 by: "))
 remainder = 25 % divisor
 print(f"The remainder of 25 divided by {divisor} is: {remainder}")
 
-# 4. Compute the result of 2³ × 5 + 0 / 2 (Follow operator precedence)
+# 4. Compute the result of 2³ × 5 + 0 / 2 (Following operator precedence)
 result = 2**3 * 5 + 0 / 2
 print(f"Result of 2^3 × 5 + 0 / 2: {result}")
 

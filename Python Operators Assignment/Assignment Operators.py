@@ -19,14 +19,6 @@ print("After x %= 3:", x)
 
 print("\n")  # Just a space between tasks
 
-# 2. Counter that increases by 2 each step using +=
-counter = 0
-print("Counter starts at:", counter)
-for i in range(5):
-    counter += 2
-    print(f"Step {i+1}: {counter}")
-
-print("\n")
 
 # 3. Simple savings balance calculator: add interest using *=
 balance = 1000  # Starting with $1000
@@ -39,10 +31,3 @@ for y in range(1, years+1):
 
 print("\n")
 
-# 4. Countdown, each step decreases by 1 using -=
-countdown = 5
-print("Countdown starts at:", countdown)
-while countdown > 0:
-    print(countdown)
-    countdown -= 1
-print("Countdown finished!")
