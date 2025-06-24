@@ -1,0 +1,1 @@
+Firstly, Open a new project then upon opening of the project create a new directory in the project then align with the python files as created and run each project specifically. 
